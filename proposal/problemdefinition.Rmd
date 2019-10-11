@@ -1,13 +1,14 @@
 # The Problem
 <!-- 
-Outlining the issue / weak point / problem to be solved by this proposal. This should be a compelling section that sets the reader up for the next section - the proposed solution!
-
-It is important to cover:
-
- - [ ] What the problem is
- - [ ] Who it affects
- - [ ] Have there been previous attempts to resolve the problem
- - [ ] Why it should be tackled
+Bayesian analysis is a statistical paradigm that answers research questions about unknown parameters using probability statements. Such probabilistic statements are naturally framed within Bayesian approaches because of the underlying assumption that all parameters are random quantities. This allow to summarize a parameter by an entire distribution of values, the posterior, instead of one fixed value as in frequentist analysis.
+A posterior distribution comprises a prior distribution about a parameter and a likelihood model providing information about the parameter based on observed data. Depending on the chosen prior distribution and likelihood model, the posterior distribution is either available analytically or approximated by, for example, one of the Markov chain Monte Carlo (MCMC) methods. 
+The Bayesian paradigm has several appealing features, including the ability to make inference on complex data structures, provide a comprehensive view of parameter uncertainty.
+In fact, posterior distribution provide us with point estimates such as posterior means, medians, percentiles, and interval estimates known as credible intervals. All statistical tests about model parameters can be expressed as probability statements based on the estimated posterior distribution.
+Although Bayesian inference is becoming endemic in a wide range of fields, an even more wide spreading use of such framework is hampered by the challenge in providing reasonable priors without a very good knowledge of the mathematics behind the scenes.
+As pointed out by Gelman, Simpson and Betancourt (2017 arxiv.org/abs/1708.07487) much of the recent progresses in Bayesian methodology points toward the beneﬁts of including real, subject-matter-speciﬁc, prior information to get more stable and accurate inferences. This puts new and signiﬁcant burdens on the developers and users of Bayesian methods, and an obligation for statisticians to develop default priors, or more generally procedures for researchers to build bespoke priors, going beyond the traditional recommendations. At the same time, those researchers need to recognize the importance of the prior and spend the time encoding their expertise in probabilistic form.
+This process is not straightforward and could sensibly change the inferences.
+It would be ideal to have tools for generating reasonable prior distributions from simple distributions or summary of expert opinions elicitations. It would be even better if that prior generating process could start from a web-based application in which people can interactively play with tables, histograms or densities to input prior beliefs.
+Our proposal is to rebuild the PriorGen R package for making it a place-to-go for generating priors later to be used in Bayesian modeling. [should the program generate a log for reproducibility?], PriorGen was built for translating beliefs into prior information in the form of Beta and Gamma distributions. It can be mainly used for the generation of priors on the prevalence of disease and the sensitivity/specificity of diagnostic tests. This basic idea will be improved to make PriorGen a general purpose tool for translating prior beliefs in the form of statistical distribution and make it the engine of a Shiny app for a user-friendly experience.
 -->
 
 
