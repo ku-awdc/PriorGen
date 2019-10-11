@@ -1,16 +1,19 @@
 # The proposal
 <!--
-This is where the proposal should be outlined. 
+Our proposal is to rebuild the PriorGen R package for making it a place-to-go for generating priors later to be used in Bayesian modeling. PriorGen was built for translating beliefs into prior information in the form of Beta and Gamma distributions. It can be mainly used for the generation of priors on the prevalence of disease and the sensitivity/specificity of diagnostic tests. This basic idea will be improved to make PriorGen a general purpose tool for translating prior beliefs in the form of statistical distribution and make it the engine of a Shiny app for a user-friendly experience.
 -->
 
 ## Overview
 <!--
-At a high-level address what your proposal is and how it will address the problem identified. Highlight any benefits to the R Community that follow from solving the problem. This should be your most compelling section.
+Our proposal aims at increasing the use of Bayesian methods with a user-friendly experience with the process of generating priors.
 -->
 
 ## Detail
 <!--
-Go into more detail about the specifics of the project and it delivers against the problem.
+Small workshops will be dedicated to the generation of the user interface of the Shiny app and to map all the valuable options for prior beliefs in terms of data (e.g. nominal, ordinal, count, continuous) and input (expert panel, parameters, histgrams).
+The small workshops will end-up with a set of wireframes for the Shiny app and a list of functions that will form the building blocks of the PriorGen package.
+Then PrioGen package and Shiny App will be coded and tested. A final version of PriorGen package will be released on CRAN. A PriorGen GitHub repository will serve for the project before and after package 
+
 
 Depending on project type the detail section should include:
 
