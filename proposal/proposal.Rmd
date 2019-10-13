@@ -13,11 +13,4 @@ Our proposal aims at increasing the use of Bayesian methods with a user-friendly
 Small workshops will be dedicated to the generation of the user interface of the Shiny app and to map all the valuable options for prior beliefs in terms of data (e.g. nominal, ordinal, count, continuous) and input (expert panel, parameters, histgrams).
 The small workshops will end-up with a set of wireframes for the Shiny app and a list of functions that will form the building blocks of the PriorGen package.
 Then PrioGen package and Shiny App will be coded and tested. A final version of PriorGen package will be released on CRAN. A PriorGen GitHub repository will serve for the project before and after package 
-
-
-Depending on project type the detail section should include:
-
- - [ ] Minimum Viable Product
- - [ ] Architecture
- - [ ] Assumptions
 -->
