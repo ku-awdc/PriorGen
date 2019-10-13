@@ -1,29 +1,34 @@
 # Requirements
 <!-- 
-- Strong networking.
-- Availabilities of in
+There are no external requirements that have to be fulfilled to make this project actually happen.
 -->
 
 ## People
 <!--
-Matthew Denwood is Associate Professor in Quantitative Veterinary Epidemiology and Biostatistics at the Department of Large Animal Sciences of Copenhagen University. His main research interests are in the application of computationally intensive statistical techniques to complex biological problems, particularly using techniques such as Bayesian Markov chain Monte Carlo (MCMC). He is also interested in ways of using statistical methods, decision support tools and economic modelling. He authored the rjags package, for using the JAGS Bayesian software within R.
-Paolo Eusebi is a Consultant Statistician and Statistical Programmer. He is working as Contract Statistician for UCB and as Consultant Statistician for Regional Helath Authority of Umbria. He is also adjunct Professor of Medical Statistics at the Epidemiology Department of Perugia University. His main research interests are the application of mixture models in meta-analysis, the use of machine learning techniques for subgroup identification and the display of uncertainty in scientific communication. He is Associate Editor of BMC Medical Research Methodology.
-Polychronis Kostoulas is Assistant Professor in Veterinary Epidemiology at the Faculty of Veterinary Medicine of the University of Thessaly. His research interests are in quantitative epidemiology, mostly focused on the application of Bayesian latent class models in diagnostic test evaluation, risk factor studies, risk assessment d. quantification of disease heterogeneity and survival analysis. He is Associate Editor of Preventive Veterinary Medicine and LCMATE Administrator.
+* Matthew Denwood is Associate Professor in Quantitative Veterinary Epidemiology and Biostatistics at the Department of Large Animal Sciences of Copenhagen University. His main research interests are in the application of computationally intensive statistical techniques to complex biological problems, particularly using techniques such as Bayesian Markov chain Monte Carlo (MCMC). He is also interested in ways of using statistical methods, decision support tools and economic modelling. He authored the rjags package, for using the JAGS Bayesian software within R.
+* Paolo Eusebi is a Consultant Statistician and Statistical Programmer. He is working as Contract Statistician for UCB and as Consultant Statistician for Regional Helath Authority of Umbria. He is also adjunct Professor of Medical Statistics at the Epidemiology Department of Perugia University. His main research interests are the application of mixture models in meta-analysis, the use of machine learning techniques for subgroup identification and the display of uncertainty in scientific communication. He is Associate Editor of BMC Medical Research Methodology.
+*Polychronis Kostoulas is Assistant Professor in Veterinary Epidemiology at the Faculty of Veterinary Medicine of the University of Thessaly. His research interests are in quantitative epidemiology, mostly focused on the application of Bayesian latent class models in diagnostic test evaluation, risk factor studies, risk assessment d. quantification of disease heterogeneity and survival analysis. He is Associate Editor of Preventive Veterinary Medicine and LCMATE Administrator.
 
 -->
 
 ## Processes
 <!-- 
-What processes need to be put in place e.g. codes of conduct, regular ISC meetings, handover to the community at large?
+A code of conduct will be approved to facilitate a constructive behavior for the project contributors. 
+Regular meetings will be scheduled and regular feedback requested from our large network of professionals, researchers and developers.
 -->
 
 ## Tools & Tech
 <!--
-Availabilities of infrastructures, hardware and software at the institutions of team members.
+Infrastructures, hardware and software is available at the institutions of team members.
 -->
 
 ## Funding
 <!-- 
+For the realisation of this project, an amount of 10,500 euros is requested.	
+-->
+
+## Summary
+<!--
 * Milestone 1	(3.000 euros)
   + Small TCs and workshops series
   + Shiny app templates
@@ -34,10 +39,5 @@ Availabilities of infrastructures, hardware and software at the institutions of 
   + Dissemination activities
   + Vignettes
   + Scientific papers
-  + Conferences presentation	
--->
-
-## Summary
-<!--
-A summary of the requirements that contextualises the costs
+  + Conferences presentation
 -->
