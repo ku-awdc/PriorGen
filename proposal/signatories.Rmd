@@ -5,11 +5,6 @@ This section provides the ISC with a view of the support received from the commu
 An optional section would be for R-Core signatories where changes to R are proposed.
 -->
 
-## Project team
-<!-- 
-Who are the people responsible for actually delivering the project if the proposal gets accepted and are already signed up and rearing to go?
--->
-
 ## Contributors
 <!-- 
 Who are the people who have actively helped with this proposal but won't necessarily be on the core project team later?
