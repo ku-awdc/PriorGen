@@ -1,30 +1,32 @@
 # Success
 <!-- 
-Projects should have a definition of done that is measurable, and a thorough understanding going in of what the risks are to delivery 
+Our final goal is a delivery of an r pakage that could also serve as an engine for a Shiny app.
 -->
 
 ## Definition of done
 <!-- 
-What does success look like? 
+The project is finished when an R package is on CRAN with available documentation in the form of package manuals and vignettes.
+Shiny app and r package should be available at the dedicate d GitHub repository.
 -->
 
 ## Measuring success
 <!-- 
-How will we know when success is achieved, what markers can we use along the way 
+
+* The R package will be developed on a GitHub repository, so that issues and commit messages can be tracked to see the project status
+* Regular reports to the R consortium will be provided
 -->
 
 ## Future work
 <!-- 
-How could this be extended / developed in the future by yourself and/or the community in general?
+This proposal is an important step in the direction of a wide spreading adoption of Bayesian paradigm. 
+Follow-up steps will include:
+* Refinemnt of Shiny app
+* Updating of the package functionalities with respect to the evolving body of the literature.
 -->
 
 ## Key risks
 <!-- 
-What sort of things could come up that can delay or break the project?
-
- - [ ] People
- - [ ] Processes
- - [ ] Tooling & Technology
- - [ ] Costs
-
+We think that the risks should be low-moderate, in particular we could foreseen the following events (with actions to take):
+* Contributors overwhelmed by work. This risk should be mitigated by an effective code of conduct and by a definition of a set of functionalities to define a minimum viable product.
+* Running out of cost. This risk should be minimized by the possibility to enlarge the developers community. IN fact, the core team has a large network of scientific collaborations.
 -->
