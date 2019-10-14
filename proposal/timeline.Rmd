@@ -1,6 +1,6 @@
 # Project plan
 
-The project will run from Jan 1st, 2020 to Dec 31, 2020.
+The project will run from Jan 1st 2020 to Dec 31st 2020.
 
 ## Phase 1:  Start-up
 
@@ -13,7 +13,7 @@ The following specific tasks will be accomplished as part of the start-up phase 
   + Writing of Shiny app templates for demonstration purposes
 
 * Planning and Workshops
-  + Hold teleconference meetings and small workshops (in conjunction with COST action "Novel tools for test evaluation and disease prevalence estimation")
+  + Hold teleconference meetings and small workshops (in conjunction with the COST action "Novel tools for test evaluation and disease prevalence estimation")
   + Establish a list of desired package functions (input objects and parameters, output)
   + Establish a list of desired features for the Shiny interface
   + Map all the potential options for prior beliefs in terms of data (e.g. nominal, ordinal, count, continuous) and input (expert panel, parameters, histograms)

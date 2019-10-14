@@ -1,24 +1,22 @@
 # Success
  
-Our final goal is a delivery of an updated PriorGen package to CRAN and publically available Shiny app at https://www.shinyapps.io
-
-
 ## Definition of done
  
-The project is finished when an R package is on CRAN with available documentation in the form of package manuals and vignettes.  The R package will also be hosted on GitHub and will contain an interactive Shiny app, which will also be publically hosted at https://www.shinyapps.io
+The project will be deemed to be successfully completed when an R package is on CRAN (including documentation in the form of package manuals and vignettes), and an interactive Shiny app is publically hosted at https://www.shinyapps.io
 
 
 ## Measuring success
  
 * The R package will be developed on a GitHub repository, so that issues and commit messages can be tracked to see the project status
 * Regular reports to the R consortium will be provided
-* Uptake of the PriorGen package (both within and outside our domain-specific fields of application)
+* Uptake of the PriorGen package will be encouraged and monitored (both within and outside our domain-specific fields of application)
 
 ## Future work
  
-This proposal is an important step in the direction of a wide spreading adoption of Bayesian paradigm.  Future work will include:
+This proposal is an important step towards a more wide-spread adoption of Bayesian methods.  Future work will include:
 
 * Ongoing refinemnt of the code base and Shiny app
+* Tighter integration with other software and R packages such as runjags
 * Updating the package functionality to address the evolving needs within the literature
 
 
