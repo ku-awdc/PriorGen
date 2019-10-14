@@ -1,7 +1,7 @@
 
 # Success
  
-Our final goal is a delivery of an r pakage that could also serve as an engine for a Shiny app.
+Our final goal is a delivery of an R pakage that could also serve as an engine for a Shiny App.
 
 
 ## Definition of done
