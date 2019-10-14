@@ -9,8 +9,6 @@ There are no external requirements that have to be fulfilled to make this projec
 * Paolo Eusebi is a Consultant Statistician and Statistical Programmer. He is working as Contract Statistician for UCB and as Consultant Statistician for Regional Helath Authority of Umbria. He is also adjunct Professor of Medical Statistics at the Epidemiology Department of Perugia University. His main research interests are the application of mixture models in meta-analysis, the use of machine learning techniques for subgroup identification and the display of uncertainty in scientific communication. He is Associate Editor of BMC Medical Research Methodology.
 * Polychronis Kostoulas is Assistant Professor in Veterinary Epidemiology at the Faculty of Veterinary Medicine of the University of Thessaly. His research interests are in quantitative epidemiology, mostly focused on the application of Bayesian latent class models in diagnostic test evaluation, risk factor studies, risk assessment d. quantification of disease heterogeneity and survival analysis. He is Associate Editor of Preventive Veterinary Medicine and LCMATE Administrator.  He is also the lead coordinator of a recently funded COST action on latent class models for diagnostic test evaluation.
 
-
-
 ## Processes
  
 A code of conduct will be approved to facilitate a constructive behavior for the project contributors. 
