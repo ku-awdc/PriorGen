@@ -1,32 +1,33 @@
 # Success
-<!-- 
+ 
 Our final goal is a delivery of an r pakage that could also serve as an engine for a Shiny app.
--->
+
 
 ## Definition of done
-<!-- 
+ 
 The project is finished when an R package is on CRAN with available documentation in the form of package manuals and vignettes.
 Shiny app and r package should be available at the dedicate d GitHub repository.
--->
+
 
 ## Measuring success
-<!-- 
-
+ 
 * The R package will be developed on a GitHub repository, so that issues and commit messages can be tracked to see the project status
 * Regular reports to the R consortium will be provided
--->
+
 
 ## Future work
-<!-- 
+ 
 This proposal is an important step in the direction of a wide spreading adoption of Bayesian paradigm. 
 Follow-up steps will include:
+
 * Refinemnt of Shiny app
 * Updating of the package functionalities with respect to the evolving body of the literature.
--->
+
 
 ## Key risks
-<!-- 
+ 
 We think that the risks should be low-moderate, in particular we could foreseen the following events (with actions to take):
+
 * Contributors overwhelmed by work. This risk should be mitigated by an effective code of conduct and by a definition of a set of functionalities to define a minimum viable product.
 * Running out of cost. This risk should be minimized by the possibility to enlarge the developers community. IN fact, the core team has a large network of scientific collaborations.
--->
+

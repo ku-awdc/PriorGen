@@ -1,6 +1,12 @@
-proposal<-"Boilerplate ISC Proposal"
+proposal<-"PriorGen:  Interactive Generation of Prior Distributions"
 proposal.file<-"isc-proposal.Rmd"
-author<-"Steph Locke"
+author<-c("Paolo Eusebi","Matt Denwood","Polychronis Kostoulas")
+
+for(f in list.files('proposal')){
+  print(f)
+  tools::showNonASCIIfile(file.path('proposal',f))
+  print("")
+}
 
 rmarkdown::render(proposal.file, output_format="html_document",
                   output_dir="out", quiet=TRUE)
