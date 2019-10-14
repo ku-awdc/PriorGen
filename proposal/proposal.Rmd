@@ -2,9 +2,7 @@
 
 ## Overview
 
-Our proposal is to rebuild the PriorGen R package for making it a place-to-go for generating priors later to be used in Bayesian modeling. PriorGen was built for translating beliefs into prior information in the form of Beta and Gamma distributions. It can be mainly used for the generation of priors on the prevalence of disease and the sensitivity/specificity of diagnostic tests. This basic idea will be improved to make PriorGen a general purpose tool for translating prior beliefs in the form of statistical distribution and make it the engine of a Shiny App for a user-friendly experience.
-
-Our proposal is to fundamentally rebuild and redesign the PriorGen package, taking into account additional prior distributions that are commonly used in other contexts and building a Shiny interface within the package itself. This will help PriorGen evolve into a single and broadly-applicable tool for translating prior beliefs in the form of statistical distributions. The new version of PriorGen will facilitate prior specification for most of the existing statistical models without requiring advanced mathematical skills from relevant experts. This will facilitate the incorporation of relevant expert opinion within a wide range of BA models.
+Our proposal is to fundamentally rebuild and redesign the PriorGen package, taking into account additional prior distributions that are commonly used in other contexts and building a Shiny interface within the package itself. This will help PriorGen evolve into a single and broadly-applicable tool for translating prior beliefs in the form of statistical distributions. The new version of PriorGen will facilitate prior specification for most of the existing statistical models without requiring advanced mathematical skills from relevant experts. This will facilitate the incorporation of relevant expert opinion within a wide range of BA models, and will make PriorGen a general-purpose tool for translating prior beliefs in the form of statistical distributions in a user-friendly way.
 
 
 ## Detail
