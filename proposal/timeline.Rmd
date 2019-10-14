@@ -1,4 +1,4 @@
-# Project plan
+ Project plan
 
 ## Start-up phase
 
@@ -6,7 +6,6 @@ The project will run from Jan 1st, 2020 to Dec 31, 2020. Licence will be all GPL
 Small workshops will be dedicated to the generation of the user interface of the Shiny app and to map all the valuable options for prior beliefs in terms of data (e.g. nominal, ordinal, count, continuous) and input (expert panel, parameters, histograms).
 The small workshops will end-up with a set of wireframes for the Shiny app and a list of functions that will form the building blocks of the PriorGen package.
 PriorGen will be licensed under the GNU General Public License version 2., code will be hosted in a GitHub repository. We will ensure quarterly update of our project to be shared on the R Consortium blog.
-
 
 
 ## Technical delivery
@@ -18,7 +17,8 @@ The project will deliver the improvement of the PriorGen R package, and interfac
 
 We plan to disseminate our work by means of scientific papers on open access form (Arxiv / PeerJ / The R Journal / BMC Med Research Methodology / PlosOne)
 We also plan to make a	community building around the project with 
-* three seminars at Copenaghen, Perugia and Tessaly; COST Initiative
+* three seminars at Copenaghen, Perugia and Tessaly
+* dissemination activities during the COST Initiative "Novel tools for test evaluation and disease prevalence estimation".
 * presentation of the idea at the PSI Conference 
 * implementation of the R package at UCB Validated R (environment for use of R in the UCB company)
 * presentation at UseR! Conference
