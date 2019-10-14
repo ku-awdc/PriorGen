@@ -19,8 +19,8 @@ All of the necessary infrastructure, hardware and software is provided by the in
 
 ## Funding
  
-For the realisation of this project, the total amount of 10,500 euros is requested.  These costs are broken down into the following 3 phases of work:
+For the realisation of this project, the total amount of $12,000 is requested.  The majority of these costs are to cover staff time, with a small amount to be used for travel expenses to attend project meetings.  The costs are broken down into the following 3 phases of work:
 
-* Phase 1:  Start-up  (3.000 euros)
-* Phase 2:  Code Delivery	(5.000 euros)
-* Phase 3:  Dissemination  (2.500 euros)
+* Phase 1:  Start-up - $3,000
+* Phase 2:  Code Delivery - $6,000
+* Phase 3:  Dissemination - $3,000
