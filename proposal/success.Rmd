@@ -1,3 +1,4 @@
+
 # Success
  
 Our final goal is a delivery of an r pakage that could also serve as an engine for a Shiny app.
@@ -30,4 +31,4 @@ We think that the risks should be low-moderate, in particular we could foreseen 
 
 * Contributors overwhelmed by work. This risk should be mitigated by an effective code of conduct and by a definition of a set of functionalities to define a minimum viable product.
 * Running out of cost. This risk should be minimized by the possibility to enlarge the developers community. IN fact, the core team has a large network of scientific collaborations.
-
+* Poor communications. This risk is minimized with the adoption of a code of conduct and the use of dedicated tools like Trello board.
