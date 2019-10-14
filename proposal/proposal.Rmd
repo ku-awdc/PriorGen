@@ -1,4 +1,4 @@
-r# The proposal
+# The proposal
 
 Our proposal is to rebuild the PriorGen R package for making it a place-to-go for generating priors later to be used in Bayesian modeling. PriorGen was built for translating beliefs into prior information in the form of Beta and Gamma distributions. It can be mainly used for the generation of priors on the prevalence of disease and the sensitivity/specificity of diagnostic tests. This basic idea will be improved to make PriorGen a general purpose tool for translating prior beliefs in the form of statistical distribution and make it the engine of a Shiny App for a user-friendly experience.
 
