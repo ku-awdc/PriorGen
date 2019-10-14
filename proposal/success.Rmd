@@ -21,7 +21,7 @@ Shiny app and r package should be available at the dedicate d GitHub repository.
 This proposal is an important step in the direction of a wide spreading adoption of Bayesian paradigm. 
 Follow-up steps will include:
 
-* Refinemnt of Shiny app
+* Forther improvements of the Shiny App
 * Updating of the package functionalities with respect to the evolving body of the literature.
 
 
