@@ -1,6 +1,6 @@
 proposal<-"PriorGen:  Interactive Generation of Prior Distributions"
 proposal.file<-"isc-proposal.Rmd"
-author<-c("Paolo Eusebi","Matt Denwood","Polychronis Kostoulas")
+author<-c("Matthew Denwood","Paolo Eusebi","Polychronis Kostoulas")
 
 for(f in list.files('proposal')){
   print(f)

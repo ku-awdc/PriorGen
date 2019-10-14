@@ -1,41 +1,26 @@
 # Requirements
  
-There are no external requirements that have to be fulfilled to make this project actually happen.
+There are no external requirements that must be fulfilled to enable this project.  The maintainers of both PriorGen and runjags packages that will be directly affected by this proposal are directly involved.  The project team are already actively collaborating so have a proven ability to be willing and able to work together.
 
+## Division of labour
 
-## Project Team
-
-* Matthew Denwood is Associate Professor in Quantitative Veterinary Epidemiology and Biostatistics at the Department of Veterinary and Animal Sciences at the University of Copenhagen. His main research interests are in the application of computationally intensive statistical techniques to complex biological problems, particularly using techniques such as Markov chain Monte Carlo (MCMC). He is also interested in ways of using statistical methods, decision support tools and economic modelling. He has authored the CRAN package runjags, which facilitates using the Bayesian software JAGS within R, and has also contributed directly to JAGS and the rjags package.  He has around 15 years experience of programming with R, and 25 years' experience with HTML and Javascript that he has more recently put to good use writing Shiny apps.
-* Paolo Eusebi is a Consultant Statistician and Statistical Programmer. He is working as Contract Statistician for UCB and as Consultant Statistician for Regional Helath Authority of Umbria. He is also adjunct Professor of Medical Statistics at the Epidemiology Department of Perugia University. His main research interests are the application of mixture models in meta-analysis, the use of machine learning techniques for subgroup identification and the display of uncertainty in scientific communication. He is Associate Editor of BMC Medical Research Methodology.
-* Polychronis Kostoulas is Assistant Professor in Veterinary Epidemiology at the Faculty of Veterinary Medicine of the University of Thessaly. His research interests are in quantitative epidemiology, mostly focused on the application of Bayesian latent class models in diagnostic test evaluation, risk factor studies, risk assessment d. quantification of disease heterogeneity and survival analysis. He is Associate Editor of Preventive Veterinary Medicine and LCMATE Administrator.  He is also the lead coordinator of a recently funded COST action on latent class models for diagnostic test evaluation.
+The majority of the coding within the redeveloped R package will be done by Matt Denwood. Polychronis Kostoulas will take charge of coordinating and generating feedback and suggestions in terms of the usability of the interface provided, and additional distributions and scenarios to include.  The direct involvement of both the LCMATE mailing list community and contributors to the related COST action activites will be central to this.  Paolo Eusebi will take the main responsibility for ensuring that the outputs are valid and correct from a mathematical perspective.  However, active involvement of each member of the team in all activities is envisaged.
 
 ## Processes
  
 A code of conduct will be approved to facilitate a constructive behavior for the project contributors. 
+
 Regular meetings will be scheduled and regular feedback requested from our large network of professionals, researchers and developers.
 
 
 ## Tools & Tech
 
-Infrastructures, hardware and software is available at the institutions of team members.
-
+All of the necessary infrastructure, hardware and software is provided by the institutions of the team members.  In particular, costs for maintaining the publically available app at https://www.shinyapps.io will be met by the University of Copenhagen.
 
 ## Funding
  
-For the realisation of this project, an amount of 10,500 euros is requested.	
+For the realisation of this project, the total amount of 10,500 euros is requested.  These costs are broken down into the following 3 phases of work:
 
-
-## Summary
-
-* Milestone 1	(3.000 euros)
-  + Small TCs and workshops series
-  + Shiny app templates
-  + List of package functions (input objects and parameters, output)	
-* Milestone 2	(5.000 euros)
-  + Package and ShinyApp release	
-* Milestone 3	(2.500 euros)
-  + Dissemination activities
-  + Vignettes
-  + Scientific papers
-  + Conferences presentation
-
+* Phase 1:  Start-up  (3.000 euros)
+* Phase 2:  Code Delivery	(5.000 euros)
+* Phase 3:  Dissemination  (2.500 euros)

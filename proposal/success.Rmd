@@ -1,34 +1,31 @@
-
 # Success
  
-Our final goal is a delivery of an R pakage that could also serve as an engine for a Shiny App.
+Our final goal is a delivery of an updated PriorGen package to CRAN and publically available Shiny app at https://www.shinyapps.io
 
 
 ## Definition of done
  
-The project is finished when an R package is on CRAN with available documentation in the form of package manuals and vignettes.
-Shiny app and r package should be available at the dedicate d GitHub repository.
+The project is finished when an R package is on CRAN with available documentation in the form of package manuals and vignettes.  The R package will also be hosted on GitHub and will contain an interactive Shiny app, which will also be publically hosted at https://www.shinyapps.io
 
 
 ## Measuring success
  
 * The R package will be developed on a GitHub repository, so that issues and commit messages can be tracked to see the project status
 * Regular reports to the R consortium will be provided
-
+* Uptake of the PriorGen package (both within and outside our domain-specific fields of application)
 
 ## Future work
  
-This proposal is an important step in the direction of a wide spreading adoption of Bayesian paradigm. 
-Follow-up steps will include:
+This proposal is an important step in the direction of a wide spreading adoption of Bayesian paradigm.  Future work will include:
 
-* Refinemnt of Shiny app
-* Updating of the package functionalities with respect to the evolving body of the literature.
+* Ongoing refinemnt of the code base and Shiny app
+* Updating the package functionality to address the evolving needs within the literature
 
 
 ## Key risks
  
-We think that the risks should be low-moderate, in particular we could foreseen the following events (with actions to take):
+The risks associated with this project are low, however the following adverse events (and remedial actions) are potentially envisaged:
 
-* Contributors overwhelmed by work. This risk should be mitigated by an effective code of conduct and by a definition of a set of functionalities to define a minimum viable product.
-* Running out of cost. This risk should be minimized by the possibility to enlarge the developers community. IN fact, the core team has a large network of scientific collaborations.
-* Poor communications. This risk is minimized with the adoption of a code of conduct and the use of dedicated tools like Trello board.
+* *The project team (and other contributors) being overwhelmed by other work*.  The project team hold relatively senior positions within their respective institutions, which can cause issues with regards to balancing workloads.  This risk should be mitigated by an effective code of conduct, and by clear allocation of time resources to the project.  Involvement of additional people to contribute to the code base would certainly be a bonus, but is not being assumed for the purposes of the costings presented.
+* *Insufficient resources associated with the project*.  This risk is minimized by co-running this project alongside related research activities, not least the recently-funded COST action on tools for diagnostic test evaluation and disease prevalence estimation.  This ensures that this project becomes embedded within a larger body of work with real momentum and the possibility of securing additional resources where objectives overlap.  This will also help to enlarge the community of developers associated with this project.
+* *Poor communication*. This risk is minimized with the adoption of a code of conduct, the use of dedicated tools like Trello board, and the use of GitHub to manage open issues.
