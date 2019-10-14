@@ -31,8 +31,10 @@ For the realisation of this project, an amount of 10,500 euros is requested.
 * Small TCs and workshops series
 * Shiny app templates
 * List of package functions (input objects and parameters, output)	
+
 ### Milestone 2	(5.000 euros)
 * Package and ShinyApp release	
+
 ### Milestone 3	(2.500 euros)
 * Dissemination activities
 * Vignettes
